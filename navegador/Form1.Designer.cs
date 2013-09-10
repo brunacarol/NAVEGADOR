@@ -93,6 +93,7 @@
             this.textacessar.TabIndex = 0;
             this.textacessar.Text = "google.com";
             this.textacessar.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textacessar.TextChanged += new System.EventHandler(this.textacessar_TextChanged);
             // 
             // panel2
             // 

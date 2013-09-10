@@ -5,3 +5,12 @@ C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.Pr
 C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.csproj.GenerateResource.Cache
 C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.exe
 C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.pdb
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\navegador.exe
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\navegador.pdb
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\bin\Debug\navegador.exe
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\bin\Debug\navegador.pdb
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\navegador.Form1.resources
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\navegador.Properties.Resources.resources
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Documents\Visual Studio 2010\Projects\navegador\navegador\obj\x86\Debug\GenerateResource.write.1.tlog
