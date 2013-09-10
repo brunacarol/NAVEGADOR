@@ -1,0 +1,7 @@
+C:\Users\Bruna Caroline\Documents\navegador\navegador\bin\Debug\navegador.exe
+C:\Users\Bruna Caroline\Documents\navegador\navegador\bin\Debug\navegador.pdb
+C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.Form1.resources
+C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.Properties.Resources.resources
+C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.csproj.GenerateResource.Cache
+C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.exe
+C:\Users\Bruna Caroline\Documents\navegador\navegador\obj\x86\Debug\navegador.pdb
